@@ -1,7 +1,7 @@
 {
-	"name": "News Feed Eradicator for Facebook",
-	"version": "1.0.5",
-	"description": "Find yourself spending too much time on Facebook? Eradicate distractions by replacing your entire news feed with an inspiring quote",
+	"name": "ByFOMO",
+	"version": "0.1",
+	"description": "Because there's more to life than worrying about what everyone else is doing.",
 	"manifest_version": 2,
 	"permissions": [
 		"storage",

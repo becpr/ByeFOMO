@@ -1,11 +1,11 @@
 {
-  "title": "News Feed Eradicator",
-  "name": "news-feed-eradicator",
-  "version": "1.0.4",
-  "description": "Find yourself spending too much time on Facebook? Eradicate distractions by replacing your entire news feed with an inspiring quote",
-  "homepage": "http://news-feed-eradicator.west.io/",
+  "title": "ByeFOMO",
+  "name": "bye-fomo",
+  "version": "0.1",
+  "description": "Because there's more to life than worrying about what everyone else is doing.",
+  "homepage": "http://introsbective.com",
   "main": "index.js",
-  "author": "Jordan West",
+  "author": "Rebecca Collins",
   "engines": {
     "firefox": ">=38.0a1",
     "fennec": ">=38.0a1"
